@@ -1,3 +1,2 @@
-# Get modman at https://github.com/colinmollenhour/modman
-code/                                   app/code/community/Cm/OrderProducts/
-Cm_OrderProducts.xml                   app/etc/modules/Cm_OrderProducts.xml
+app/code/community/Cm/OrderProducts/    app/code/community/Cm/OrderProducts/
+app/etc/modules/Cm_OrderProducts.xml     app/etc/modules/Cm_OrderProducts.xml
