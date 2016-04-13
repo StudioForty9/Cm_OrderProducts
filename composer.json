@@ -1,5 +1,5 @@
 {
-   "name": "colinmollenhour/cm_orderproducts",
+   "name": "cm/orderproducts",
    "type": "magento-module",
    "description": "Add Product SKUs or Names column to the Magento Orders Grid",
    "homepage": "https://github.com/colinmollenhour/Cm_OrderProducts",
